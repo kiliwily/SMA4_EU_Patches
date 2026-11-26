@@ -6,6 +6,7 @@
 - Mario and Luigi no longer powwer dowm when using a mushroom from the item inventory when their current item is better.
 - Added wrap around (a.k.a. press down on the lowest entry in a menu to get to the top of the menu and vice versa) in several menus in the game that didn't have it.
 - The lock in world 1 opens when you get the flute in 1-Fortress.
+- Added a block breaking sound when destroying grey blocks with a hammer in world e levels.
 
 ## Bug Fixes
 - Fixes a bug that causes the Player to not get back to the overworld and stuck in the level when eaten by the big fish and pressing start to open the pause menu in the same frame.
